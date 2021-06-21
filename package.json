@@ -1,0 +1,17 @@
+{
+  "name": "jobcan_web_handle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aigle": "^1.14.1",
+    "async-lodash": "^1.0.9",
+    "lodash": "^4.17.21",
+    "puppeteer": "^10.0.0"
+  }
+}
